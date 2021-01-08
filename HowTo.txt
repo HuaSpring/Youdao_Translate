@@ -1,0 +1,1 @@
+dumpsys activity com.fspt.practice/.activity.PracticeMainActivity_YouDao zh  调试汉字
